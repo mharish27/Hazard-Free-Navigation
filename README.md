@@ -78,9 +78,15 @@ pip install Flask osmnx networkx pandas scikit-learn
 
 <img width="525" alt="image" src="https://github.com/mharish27/Hazard-Free-Navigation/assets/114908558/f53db5d9-3709-400e-9432-6a4d64c07c6b">
 
+<br />
+
 <img width="296" alt="image" src="https://github.com/mharish27/Hazard-Free-Navigation/assets/114908558/65bfc3c5-352f-4bff-a52b-627aec411f96">
 
+<br />
+
 <img width="295" alt="image" src="https://github.com/mharish27/Hazard-Free-Navigation/assets/114908558/5bc2771d-ce01-4bb9-a067-8339d3c134a3">
+
+<br />
 
 <img width="530" alt="image" src="https://github.com/mharish27/Hazard-Free-Navigation/assets/114908558/7d9178c1-f05e-45a3-a83c-c6ea854ef9c8">
 
